@@ -1,5 +1,5 @@
 # aws
-Responsible for setting up aws environments allowing for quick configuration of environments when creating new accounts. This is particularly useful if using AWS Free Tier where accounts need to be re-create every 12 months, this will ensure that the environments are created identically everytime.
+Responsible for setting up aws environments, allowing for quick configuration of environments when creating new accounts. This is particularly useful if using AWS Free Tier where accounts need to be re-create every 12 months since this will ensure that the environments are created identically everytime.
 
 ## Keywords
 
