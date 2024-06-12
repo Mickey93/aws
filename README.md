@@ -3,7 +3,7 @@ Responsible for setting up aws environments allowing for quick configuration of 
 
 ## Keywords
 
-Python, AWS, GitHub, Web Scraping, Infrastructure as Code, Data, CI/CD
+Python, AWS, GitHub, Infrastructure as Code
 
 ## Copyright Notice
 
